@@ -1,0 +1,29 @@
+# Arquivos e diretórios do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Arquivos e diretórios do Robot Framework
+output.xml
+log.html
+report.html
+debug.log
+results/
+*.robot.py
+
+# Arquivos e diretórios do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos e diretórios do IDE
+.vscode/
+.idea/
+*.swp
+venv/
